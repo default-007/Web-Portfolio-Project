@@ -66,3 +66,24 @@ nav a:hover {
   text-align: center;
   background-color: lightgrey;
 }
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 28px;
+  letter-spacing: 9px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.ptext .border {
+  background-color: lightgrey;
+  color: green;
+  padding: 20px;
+}
+section {
+  background-color: lightgrey;
+  padding: 20px;
+  color: black;
+  text-align: center;
+}
