@@ -3,50 +3,59 @@ body {
   font-family: sans-serif;
   font-weight: 400;
   color: black;
-  background-color: orange;
+  background-color: darkgrey;
 }
 header{
   position: fixed;
   background-color: orange;
   top: 0;
-  width: 100%;
+  width: auto;
 }
+
 .container {
-  margin: 0 auto;
-  background-color: orange;
+  margin: 0;
+  background-color: blue;
 }
+
 .logo {
   float: left;
   width: 150px;
   height: 80px;
 }
+
 nav {
   float: right;
+  margin: 0;
 }
+
 nav ul {
   margin: 0;
-  width: 185.5vh;
-  float: left;
+  width: 165vh;
+  float: right;
   padding: 0;
   background-color: black;
 }
+
 nav li {
   display: inline-block;
   margin: 10px;
   padding: 20px;
   position: relative;
 }
+
 nav a {
   color: white;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 18px;
 }
+
 nav a:hover {
   background: darkgrey;
   color: green;
   padding: 20px;
 }
+
 .pimg1, .pimg2, .pimg3 {
   position: relative;
   background-position: center;
@@ -54,22 +63,27 @@ nav a:hover {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
 .pimg1 {
   background-image: url(../images/chess.jpeg);
   min-height: 800px;
 }
+
 .pimg2 {
   background-image: url(../images/592815.jpeg);
   min-height: 500px;
 }
+
 .pimg3 {
   background-image: url(../images/lion-wild-africa-african.jpg);
   min-height: 500px;
 }
+
 .section {
   text-align: center;
   background-color: lightgrey;
 }
+
 .ptext {
   position: absolute;
   top: 50%;
@@ -80,11 +94,13 @@ nav a:hover {
   text-transform: uppercase;
   font-weight: bold;
 }
+
 .ptext .border {
   background-color: lightgrey;
   color: green;
   padding: 20px;
 }
+
 section {
   background-color: lightgrey;
   padding: 20px;
@@ -92,6 +108,7 @@ section {
   text-align: center;
   font-size: 300;
 }
+
 footer {
   padding: 20px;
   text-align: center;
