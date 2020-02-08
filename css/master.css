@@ -43,3 +43,26 @@ nav a {
 nav a:hover {
   color: green;
 }
+.pimg1, .pimg2, .pimg3 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.pimg1 {
+  background-image: url(../images/chess.jpeg);
+  min-height: 800px;
+}
+.pimg2 {
+  background-image: url(../images/592815.jpeg);
+  min-height: 500px;
+}
+.pimg3 {
+  background-image: url(../images/lion-wild-africa-african.jpg);
+  min-height: 500px;
+}
+.section {
+  text-align: center;
+  background-color: lightgrey;
+}
