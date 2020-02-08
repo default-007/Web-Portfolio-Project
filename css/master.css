@@ -1,9 +1,9 @@
 body {
-  margin: 0;
+  margin: 100px;
   font-family: sans-serif;
   font-weight: 400;
   color: black;
-  background-color: darkgrey;
+  background-color: orange;
 }
 header{
   position: fixed;
@@ -90,6 +90,7 @@ section {
   padding: 20px;
   color: black;
   text-align: center;
+  font-size: 300;
 }
 footer {
   padding: 20px;
