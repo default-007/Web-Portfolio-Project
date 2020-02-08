@@ -6,8 +6,10 @@ body {
   background-color: darkgrey;
 }
 header{
-  position: fixed top;
+  position: fixed;
   background-color: orange;
+  top: 0;
+  width: 100%;
 }
 .container {
   margin: 0 auto;
@@ -41,7 +43,9 @@ nav a {
   font-size: 18px;
 }
 nav a:hover {
+  background: darkgrey;
   color: green;
+  padding: 20px;
 }
 .pimg1, .pimg2, .pimg3 {
   position: relative;
@@ -85,5 +89,9 @@ section {
   background-color: lightgrey;
   padding: 20px;
   color: black;
+  text-align: center;
+}
+footer {
+  padding: 20px;
   text-align: center;
 }
