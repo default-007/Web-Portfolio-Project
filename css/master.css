@@ -56,7 +56,7 @@ nav a:hover {
   padding: 20px;
 }
 
-.pimg1, .pimg2, .pimg3 {
+.pimg1, .pimg2, .pimg3, .pimg4, .pimg5, .pimg6, .pimg7 {
   position: relative;
   background-position: center;
   background-size: cover;
@@ -66,17 +66,33 @@ nav a:hover {
 
 .pimg1 {
   background-image: url(../images/chess.jpeg);
-  min-height: 800px;
+  min-height: 1000px;
 }
 
 .pimg2 {
   background-image: url(../images/592815.jpeg);
-  min-height: 500px;
+  min-height: 600px;
 }
 
 .pimg3 {
   background-image: url(../images/lion-wild-africa-african.jpg);
-  min-height: 500px;
+  min-height: 600px;
+}
+.pimg4 {
+  background-image: url(../images/headphones_black_close_up_153018_3840x2400.jpg);
+  min-height: 1000px;
+}
+.pimg5 {
+  background-image: url(../images/1454417-vertical-ac-130-gunship-wallpaper-hd-3216x2136.jpg);
+  min-height: 600px;
+}
+.pimg6 {
+  background-image: url(../images/wp1828948-programmer-wallpapers.jpg);
+  min-height: 600px;
+}
+.pimg7 {
+  background-image: url(../images/1454441-large-ac-130-gunship-wallpaper-hd-2994x1998-for-windows-7.jpg);
+  min-height: 1000px;
 }
 
 .section {
