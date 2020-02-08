@@ -13,11 +13,12 @@ This is an Independent Project that was created using purely css and html. The w
 * Chrome
 * Mozilla Firefox
 * Safaris
-* 
+* Opera Mini
+* Microsoft Edge
 {You can also clone or download the files and view them on your browser locally}
 
 ## Known Bugs
-The navigation bar has some issues and not displaying the active button
+The navigation bar has some issues and not displaying the active button.The images are 4k, might take sometime loading.
 
 ## Technologies Used
 The site was created using purely html and css.
