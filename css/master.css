@@ -9,3 +9,20 @@ header{
   position: fixed top;
   background-color: orange;
 }
+.container {
+  margin: 0 auto;
+  background-color: orange;
+}
+.logo {
+  float: left;
+  width: 150px;
+  height: 80px;
+}
+nav {
+  float: right;
+}
+nav ul {
+  margin: 0;
+  width: 185.5vh;
+  float: left;
+  padding: 0;
