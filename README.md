@@ -18,6 +18,7 @@ This is an Independent Project that was created using purely css and html. The w
 
 ## Known Bugs
 The navigation bar has some issues and not displaying the active button
+The images are 4K so might take sometime to load.
 
 ## Technologies Used
 The site was created using purely html and css.
