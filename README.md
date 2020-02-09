@@ -13,7 +13,10 @@ This is an Independent Project that was created using purely css and html. The w
 * Chrome
 * Mozilla Firefox
 * Safaris
-* 
+* Opera Mini
+* The link to view the site is below
+ https://default-007.github.io/Web-Portfolio-Project/index.html
+ 
 {You can also clone or download the files and view them on your browser locally}
 
 ## Known Bugs
